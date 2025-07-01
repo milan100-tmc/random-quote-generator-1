@@ -1,0 +1,376 @@
+{
+  "categories": {
+    "motivational": [
+      {
+        "id": "mot_001",
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "motivational"
+      },
+      {
+        "id": "mot_002",
+        "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "category": "motivational"
+      },
+      {
+        "id": "mot_003",
+        "text": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "category": "motivational"
+      },
+      {
+        "id": "mot_004",
+        "text": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "category": "motivational"
+      },
+      {
+        "id": "mot_005",
+        "text": "It is during our darkest moments that we must focus to see the light.",
+        "author": "Aristotle",
+        "category": "motivational"
+      },
+      {
+        "id": "mot_006",
+        "text": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "category": "motivational"
+      },
+      {
+        "id": "mot_007",
+        "text": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "category": "motivational"
+      },
+      {
+        "id": "mot_008",
+        "text": "Your limitation—it's only your imagination.",
+        "author": "Unknown",
+        "category": "motivational"
+      },
+      {
+        "id": "mot_009",
+        "text": "Push yourself, because no one else is going to do it for you.",
+        "author": "Unknown",
+        "category": "motivational"
+      },
+      {
+        "id": "mot_010",
+        "text": "Great things never come from comfort zones.",
+        "author": "Unknown",
+        "category": "motivational"
+      }
+    ],
+    "wisdom": [
+      {
+        "id": "wis_001",
+        "text": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates",
+        "category": "wisdom"
+      },
+      {
+        "id": "wis_002",
+        "text": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+        "author": "Martin Luther King Jr.",
+        "category": "wisdom"
+      },
+      {
+        "id": "wis_003",
+        "text": "The journey of a thousand miles begins with one step.",
+        "author": "Lao Tzu",
+        "category": "wisdom"
+      },
+      {
+        "id": "wis_004",
+        "text": "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.",
+        "author": "Bill Keane",
+        "category": "wisdom"
+      },
+      {
+        "id": "wis_005",
+        "text": "A wise man learns more from his enemies than a fool from his friends.",
+        "author": "Baltasar Gracián",
+        "category": "wisdom"
+      },
+      {
+        "id": "wis_006",
+        "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+        "author": "Chinese Proverb",
+        "category": "wisdom"
+      },
+      {
+        "id": "wis_007",
+        "text": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "category": "wisdom"
+      },
+      {
+        "id": "wis_008",
+        "text": "The mind is everything. What you think you become.",
+        "author": "Buddha",
+        "category": "wisdom"
+      },
+      {
+        "id": "wis_009",
+        "text": "Experience is the teacher of all things.",
+        "author": "Julius Caesar",
+        "category": "wisdom"
+      },
+      {
+        "id": "wis_010",
+        "text": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+        "author": "Alan Watts",
+        "category": "wisdom"
+      }
+    ],
+    "humor": [
+      {
+        "id": "hum_001",
+        "text": "I haven't failed. I've just found 10,000 ways that won't work.",
+        "author": "Thomas Edison",
+        "category": "humor"
+      },
+      {
+        "id": "hum_002",
+        "text": "I'm not superstitious, but I am a little stitious.",
+        "author": "Michael Scott",
+        "category": "humor"
+      },
+      {
+        "id": "hum_003",
+        "text": "The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.",
+        "author": "Terry Pratchett",
+        "category": "humor"
+      },
+      {
+        "id": "hum_004",
+        "text": "I can resist everything except temptation.",
+        "author": "Oscar Wilde",
+        "category": "humor"
+      },
+      {
+        "id": "hum_005",
+        "text": "Age is an issue of mind over matter. If you don't mind, it doesn't matter.",
+        "author": "Mark Twain",
+        "category": "humor"
+      },
+      {
+        "id": "hum_006",
+        "text": "I love deadlines. I like the whooshing sound they make as they fly by.",
+        "author": "Douglas Adams",
+        "category": "humor"
+      },
+      {
+        "id": "hum_007",
+        "text": "The difference between stupidity and genius is that genius has its limits.",
+        "author": "Albert Einstein",
+        "category": "humor"
+      },
+      {
+        "id": "hum_008",
+        "text": "Time you enjoy wasting is not wasted time.",
+        "author": "Marthe Troly-Curtin",
+        "category": "humor"
+      },
+      {
+        "id": "hum_009",
+        "text": "I'm writing a book. I've got the page numbers done.",
+        "author": "Steven Wright",
+        "category": "humor"
+      },
+      {
+        "id": "hum_010",
+        "text": "The early bird might get the worm, but the second mouse gets the cheese.",
+        "author": "Willie Nelson",
+        "category": "humor"
+      }
+    ],
+    "success": [
+      {
+        "id": "suc_001",
+        "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer",
+        "category": "success"
+      },
+      {
+        "id": "suc_002",
+        "text": "Don't be afraid to give up the good to go for the great.",
+        "author": "John D. Rockefeller",
+        "category": "success"
+      },
+      {
+        "id": "suc_003",
+        "text": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney",
+        "category": "success"
+      },
+      {
+        "id": "suc_004",
+        "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill",
+        "category": "success"
+      },
+      {
+        "id": "suc_005",
+        "text": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser",
+        "category": "success"
+      },
+      {
+        "id": "suc_006",
+        "text": "Don't let yesterday take up too much of today.",
+        "author": "Will Rogers",
+        "category": "success"
+      },
+      {
+        "id": "suc_007",
+        "text": "You learn more from failure than from success. Don't let it stop you. Failure builds character.",
+        "author": "Unknown",
+        "category": "success"
+      },
+      {
+        "id": "suc_008",
+        "text": "If you are not willing to risk the usual, you will have to settle for the ordinary.",
+        "author": "Jim Rohn",
+        "category": "success"
+      },
+      {
+        "id": "suc_009",
+        "text": "Success is the sum of small efforts repeated day in and day out.",
+        "author": "Robert Collier",
+        "category": "success"
+      },
+      {
+        "id": "suc_010",
+        "text": "The road to success and the road to failure are almost exactly the same.",
+        "author": "Colin R. Davis",
+        "category": "success"
+      }
+    ],
+    "life": [
+      {
+        "id": "lif_001",
+        "text": "Life is what happens to you while you're busy making other plans.",
+        "author": "John Lennon",
+        "category": "life"
+      },
+      {
+        "id": "lif_002",
+        "text": "The purpose of our lives is to be happy.",
+        "author": "Dalai Lama",
+        "category": "life"
+      },
+      {
+        "id": "lif_003",
+        "text": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius",
+        "category": "life"
+      },
+      {
+        "id": "lif_004",
+        "text": "The biggest adventure you can take is to live the life of your dreams.",
+        "author": "Oprah Winfrey",
+        "category": "life"
+      },
+      {
+        "id": "lif_005",
+        "text": "Life is 10% what happens to you and 90% how you react to it.",
+        "author": "Charles R. Swindoll",
+        "category": "life"
+      },
+      {
+        "id": "lif_006",
+        "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+        "author": "Abraham Lincoln",
+        "category": "life"
+      },
+      {
+        "id": "lif_007",
+        "text": "Life is a succession of lessons which must be lived to be understood.",
+        "author": "Helen Keller",
+        "category": "life"
+      },
+      {
+        "id": "lif_008",
+        "text": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+        "author": "Brian Tracy",
+        "category": "life"
+      },
+      {
+        "id": "lif_009",
+        "text": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw",
+        "category": "life"
+      },
+      {
+        "id": "lif_010",
+        "text": "The good life is one inspired by love and guided by knowledge.",
+        "author": "Bertrand Russell",
+        "category": "life"
+      }
+    ],
+    "inspiration": [
+      {
+        "id": "ins_001",
+        "text": "Be yourself; everyone else is already taken.",
+        "author": "Oscar Wilde",
+        "category": "inspiration"
+      },
+      {
+        "id": "ins_002",
+        "text": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+        "author": "Albert Einstein",
+        "category": "inspiration"
+      },
+      {
+        "id": "ins_003",
+        "text": "A room without books is like a body without a soul.",
+        "author": "Marcus Tullius Cicero",
+        "category": "inspiration"
+      },
+      {
+        "id": "ins_004",
+        "text": "You only live once, but if you do it right, once is enough.",
+        "author": "Mae West",
+        "category": "inspiration"
+      },
+      {
+        "id": "ins_005",
+        "text": "Be the change that you wish to see in the world.",
+        "author": "Mahatma Gandhi",
+        "category": "inspiration"
+      },
+      {
+        "id": "ins_006",
+        "text": "If you tell the truth, you don't have to remember anything.",
+        "author": "Mark Twain",
+        "category": "inspiration"
+      },
+      {
+        "id": "ins_007",
+        "text": "A friend is someone who knows all about you and still loves you.",
+        "author": "Elbert Hubbard",
+        "category": "inspiration"
+      },
+      {
+        "id": "ins_008",
+        "text": "To live is the rarest thing in the world. Most people just exist.",
+        "author": "Oscar Wilde",
+        "category": "inspiration"
+      },
+      {
+        "id": "ins_009",
+        "text": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+        "author": "Martin Luther King Jr.",
+        "category": "inspiration"
+      },
+      {
+        "id": "ins_010",
+        "text": "The only way out of the labyrinth of suffering is to forgive.",
+        "author": "John Green",
+        "category": "inspiration"
+      }
+    ]
+  }
+}
